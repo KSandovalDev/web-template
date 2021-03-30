@@ -1,0 +1,16 @@
+1.2
+- Added WordPress 5.5 compatibility
+- Updated Qode Framework plugin to 1.1.3
+- Updated Neobeat Core plugin to 1.1.1
+- Updated Revolution Slider plugin to 6.2.22
+
+1.1
+- Added WooCommerce 4.1.x compatibility
+- Updated Neobeat Core plugin to 1.1
+- Updated Revolution Slider plugin to 6.2.12
+- Improved demo content import functionality
+- Removed unnecessary tag from WooCommerce side-area cart widgets
+- Fixed Album Player Revolution Slider shortcode when Revolution Slider plugin is not installed
+- Fixed Artist List shortcode when artist has more albums
+- Fixed NaN value - WooCommerce quantity input
+- Fixed custom font global option
